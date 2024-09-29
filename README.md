@@ -100,7 +100,7 @@ Capstone/
 We welcome contributions to improve this project. If you have any suggestions or improvements, please create a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE file](https://github.com/calebS24/Skin-Cancer-Classification?tab=License-1-ov-file) for details
 
 
 
