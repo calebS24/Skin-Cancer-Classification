@@ -1,6 +1,6 @@
 # Capstone Project - CSE445 2024
 
-Welcome to the Capstone Project repository for CSE445 2024. This project focuses on classifying skin lesions using deep learning techniques. We are utilizing the HAM10000 dataset and implementing various machine learning algorithms such as Convolutional Neural Networks (CNN), K-Nearest Neighbors (KNN), Random Forest, and Decision Tree.
+Welcome to the Capstone Project repository for CSE445 2024. This project focuses on classifying skin lesions using deep learning techniques. We are utilizing the HAM10000 dataset and implementing various machine learning algorithms such as Convolutional Neural Networks (CNN), K-Nearest Neighbors (KNN), Random Forest, and Decision Tree algorithms.
 
 ## Table of Contents
 
