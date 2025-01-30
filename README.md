@@ -97,12 +97,21 @@ Capstone/
 └── .gitignore
 ```
 ## Contributing
-We welcome contributions to improve this project. If you have any suggestions or improvements, please create a pull request or open an issue.
+We welcome contributions to improve this project. If you have any suggestions or improvements, please create a pull request or open an issue or discuss with me in my email ID.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE file](https://github.com/calebS24/Skin-Cancer-Classification?tab=License-1-ov-file) for details
+This project is licensed under the MIT License - see the [LICENSE file](https://github.com/calebS24/Skin-Cancer-Classification?tab=License-1-ov-file) for details.
 
+---
 
+## Contact
+
+For any queries or suggestions, please feel free to reach out:
+
+- **Name**: Caleb Shaji Varghese  
+- **Email**: calebsvarghese@gmail.com  
+- **GitHub**: [/calebS24](https://github.com/calebS24)
+- **LinkedIn**: [/calebsv](https://www.linkedin.com/in/calebsv)
 
 
 
