@@ -15,7 +15,7 @@ Welcome to the Capstone Project repository for CSE445 2024. This project focuses
 
 ## Project Overview
 
-The goal of this project is to develop an effective system for classifying skin lesions based on images. The project leverages deep learning and machine learning algorithms to achieve high accuracy in classification, aiding in the early detection and treatment of skin diseases.
+The goal of this project is to develop an effective system for classifying skin lesions based on images. The project uses deep learning and machine learning algorithms to achieve high accuracy in classification, aiding in the early detection and treatment of skin diseases.
 
 ## Dataset
 
